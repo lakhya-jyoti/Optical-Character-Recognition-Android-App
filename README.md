@@ -1,2 +1,4 @@
 # Optical-Character-Recognition-Android-App
 Android application for Optical English Character Recognition, completed during my internship at the Department of Computer Science &amp; Engineering, NIT Mizoram
+
+The application features include user authentication (login and signup), capturing or uploading images for English text extraction, copying extracted text, and saving scanned text records as notes. Developed using Java, the application leverages Firebase for storing user credentials and records. For optical English character recognition, Google's developer API is utilized, ensuring accurate and efficient text extraction. This project aims to provide a robust solution for converting images of text into editable digital text, facilitating better accessibility and usability of printed materials. 
